@@ -13,7 +13,7 @@ N/A
 ## Usage
 https://stretchspelman.github.io/challenge-1/
 
-![alt text](./02-Challenge/Assets/01-html-css-git-homework-demo.png)
+![alt text](assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 N/A
